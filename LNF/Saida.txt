@@ -1,0 +1,51 @@
+##ANALISE DOS DADOS TIMES DE FUTSAL##
+
+#TIME 1
+MagnusFutsal, 9 anos.
+
+Treinador: Ricardinho, 46, Brasil, 5.0 anos no cargo.
+
+Jogadores:
+1. Guita, 33 anos, Portugal, goleiro, canhoto, 10 D/P, 1.33 GS/P.
+2. Careca, 35 anos, Brasil, goleiro, destro, 1.82 D/P, 0.36 GS/P.
+3. Pedro, 35 anos, Espanha, Ala, Canhoto, 0.32 G/P, 0.48 A/P.
+4. Lucas, 31 anos, Itália, Pivô, Ambidestro, 0.68 G/P, 0.32 A/P.
+5. Roberto, 20 anos, Brasil, Ala, canhoto, 1 G/P, 0.35 A/P.
+6. Matheus, 21 anos, Brasil, Ala, destro, 0.62 G/P, 0.25 A/P.
+
+Dados gerais do MagnusFutsal: 
+
+Gols totais: 68
+Assistencias totais: 36
+Defesas totais: 850
+Gols sofridos totais: 120
+Número de brasileiros: 4
+Número de estrangeiros: 3
+Média de idade dos jogadores: 29.17 anos.
+
+#TIME 2
+Jaraguá, 23 anos.
+
+Treinador: Claudinho, 43, Portugal, 3.5 anos no cargo.
+
+Jogadores:
+1. Cleiton, 37 anos, Brasil, goleiro, canhoto, 15 D/P, 1.5 GS/P.
+2. Lambão, 33 anos, Brasil, goleiro, canhoto, 2.5 D/P, 0.25 GS/P.
+3. Jonylson, 38 anos, Chile, Fixo, destro, 0.58 G/P, 0.25 A/P.
+4. Stenio, 30 anos, Brasil, Fixo, ambidestro, 0.57 G/P, 0.23 A/P.
+5. Ronaldo, 20 anos, Brasil, Ala, ambidestro, 0.6 G/P, 0 A/P.
+6. Celio, 26 anos, Brasil, Ala, destro, 0.45 G/P, 0.9 A/P.
+7. Yuri, 31 anos, Venezuela, Ala, canhoto, 0.38 G/P, 0.1 A/P.
+8. Wesley, 23 anos, Brasil, Ala, destro, 0.2 G/P, 0.25 A/P.
+9. Livio, 21 anos, Brasil, Pivo, destro, 2 G/P, 1 A/P.
+10. Davi, 21 anos, Brasil, Pivo, destro, 1.12 G/P, 0.25 A/P.
+
+Dados gerais do Jaraguá: 
+
+Gols totais: 106
+Assistencias totais: 59
+Defesas totais: 3100
+Gols sofridos totais: 310
+Número de brasileiros: 8
+Número de estrangeiros: 3
+Média de idade dos jogadores: 28 anos.
